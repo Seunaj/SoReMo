@@ -1,6 +1,6 @@
 ## Citation
 If you use this code in your work, please cite the accompanying paper:
-
+```
 @article{ajayi2023forecasting,
   title={The Forecasting and Case Study Modeling of COVID-19 in Chicago: A Data-driven Approach},
   author={Ajayi, Oluwaseun T},
@@ -9,3 +9,4 @@ If you use this code in your work, please cite the accompanying paper:
   number={2},
   year={2023}
 }
+```
